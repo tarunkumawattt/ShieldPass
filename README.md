@@ -130,7 +130,7 @@ ShieldPass/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ShieldPass.git
+git clone https://github.com/tarunkumawattt/ShieldPass.git
 ```
 
 ### Step 2: Navigate to the Project
